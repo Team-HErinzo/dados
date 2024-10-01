@@ -1,0 +1,1 @@
+const url = "https://servicodados.ibge.gov.br/api/v3/agregados/7392/periodos/2014/variaveis/10484?localidades=N1[all]&classificacao=454[47952]%7C919[48244,48245,48246,48277]"
